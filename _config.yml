@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: me & myself and I
+description: Welcome to me page
+plugins:
+ - jemoji
+url: "https://adriandzki.github.io/"
+markdown: kramdown
